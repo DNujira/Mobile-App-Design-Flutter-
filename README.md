@@ -1,16 +1,13 @@
-# codediva
+# Example of Design Mobile Application Login and Pin Code Screen (Flutter) 
 
-A new Flutter project.
+## Welcome Screen
+![welcome](https://github.com/DNujira/Mobile-App-Design-Flutter-/assets/117592447/a9e5ad0e-e3b3-4f8e-9ef6-06b685948070)
 
-## Getting Started
+## showmodalbottomsheet of term of service Screen
+![service](https://github.com/DNujira/Mobile-App-Design-Flutter-/assets/117592447/f01f5631-d175-4775-a0c4-90311bd30eb6)
 
-This project is a starting point for a Flutter application.
+## Pin Code (ios) screen
 
-A few resources to get you started if this is your first Flutter project:
+![confirmpin](https://github.com/DNujira/Mobile-App-Design-Flutter-/assets/117592447/9f1308e1-8738-4131-930b-e6cd7785edaa)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
